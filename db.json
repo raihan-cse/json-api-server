@@ -1,0 +1,32 @@
+{
+  "formData": [
+    {
+      "id": 1,
+      "service": "",
+      "email": ""
+    }
+  ],
+  "digitalExperience": [
+    {
+      "id": 1,
+      "imgUrl": "https://raw.githubusercontent.com/raihan-cse/antopolis-website-images/98851c7ceb7ded580ec8ddfa347841a587aba9eb/digital-exp/business.svg",
+      "imgAlt": "Business Services",
+      "title": "Business Services",
+      "description": "Webdesign (UI & UX) is our historical expertise. We’re constantly seeking to strike the right balance."
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://raw.githubusercontent.com/raihan-cse/antopolis-website-images/98851c7ceb7ded580ec8ddfa347841a587aba9eb/digital-exp/tech.svg",
+      "imgAlt": "Techonological Solutions",
+      "title": "Techonological Solutions",
+      "description": "Webdesign (UI & UX) is our historical expertise. We’re constantly seeking to strike the right balance."
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://raw.githubusercontent.com/raihan-cse/antopolis-website-images/98851c7ceb7ded580ec8ddfa347841a587aba9eb/digital-exp/content.svg",
+      "imgAlt": "Content Developement",
+      "title": "Content Developement",
+      "description": "Webdesign (UI & UX) is our historical expertise. We’re constantly seeking to strike the right balance."
+    }
+  ]
+}
